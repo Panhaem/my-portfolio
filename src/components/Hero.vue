@@ -1,6 +1,6 @@
 <template>
   <div
-    class="min-h-screen flex flex-col md:flex-row justify-center items-center gap-10 
+    class="min-h-screen flex flex-col md:flex-row justify-center items-center gap-10
            bg-gray-100 dark:bg-gray-900 text-center md:text-left px-6 pt-28"
     data-aos="fade-up"
   >
@@ -26,7 +26,7 @@
 
         <!-- Download CV Button -->
         <a
-          href="public/empanha.pdf"
+          href="/empanha.pdf"
           download
           class="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:scale-105 transition"
         >
