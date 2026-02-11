@@ -5,7 +5,7 @@
 
       <div class="mb-10 p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
         <h3 class="text-xl font-semibold dark:text-white">Technology Solution Development (TSD)</h3>
-        <p class="text-gray-500 dark:text-gray-400 mb-3">Dec 2023 – Present • Web Developer</p>
+        <p class="text-gray-500 dark:text-gray-400 mb-3">Dec 2022 – Dec 2023 • Web Developer</p>
         <ul class="list-disc ml-6 text-gray-700 dark:text-gray-300 space-y-2">
           <li>POS & ERP system maintenance</li>
           <li>Laravel & CodeIgniter backend development</li>
@@ -16,7 +16,7 @@
 
       <div class="mb-10 p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
         <h3 class="text-xl font-semibold dark:text-white">KG Software Technology Co., Ltd</h3>
-        <p class="text-gray-500 dark:text-gray-400 mb-3">Dec 2022 – Dec 2023 • Web Developer</p>
+        <p class="text-gray-500 dark:text-gray-400 mb-3">Dec 2023 – Present • Web Developer</p>
         <ul class="list-disc ml-6 text-gray-700 dark:text-gray-300 space-y-2">
           <li>Frontend development: Vue 2/3, React.js</li>
           <li>Backend using Laravel</li>
