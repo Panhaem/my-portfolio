@@ -3,6 +3,15 @@
     <div class="max-w-5xl mx-auto px-6">
       <h2 class="text-3xl font-bold mb-12 text-center dark:text-white">Work Experience</h2>
 
+      <div class="p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
+            <h3 class="text-xl font-semibold dark:text-white">Brown Coffee & Bakery</h3>
+            <p class="text-gray-500 dark:text-gray-400 mb-3">2020 – 2021 • Barista</p>
+            <ul class="list-disc ml-6 text-gray-700 dark:text-gray-300 space-y-2">
+              <li>Beverage preparation & customer service</li>
+              <li>Cashier operations</li>
+            </ul>
+      </div>
+
       <div class="mb-10 p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
         <h3 class="text-xl font-semibold dark:text-white">Technology Solution Development (TSD)</h3>
         <p class="text-gray-500 dark:text-gray-400 mb-3">Dec 2022 – Dec 2023 • Web Developer</p>
@@ -24,15 +33,18 @@
           <li>Git collaboration & system deployment</li>
         </ul>
       </div>
-
-      <div class="p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
-        <h3 class="text-xl font-semibold dark:text-white">Brown Coffee & Bakery</h3>
-        <p class="text-gray-500 dark:text-gray-400 mb-3">2020 – 2021 • Barista</p>
+        <div class="mb-10 p-6 bg-white dark:bg-gray-900 rounded-xl shadow hover:shadow-lg transition">
+        <h3 class="text-xl font-semibold dark:text-white">Ministry of Labour and Vocational Training</h3>
+        <p class="text-gray-500 dark:text-gray-400 mb-3">02-March-2026 – Present • Web Developer</p>
         <ul class="list-disc ml-6 text-gray-700 dark:text-gray-300 space-y-2">
-          <li>Beverage preparation & customer service</li>
-          <li>Cashier operations</li>
+          <li>Laravel & CodeIgniter backend development</li>
+          <li>RESTful API design & integration</li>
+          <li>Handled and maintained HRM systems</li>
+          <li>Git collaboration & system deployment</li>
         </ul>
       </div>
+
+     
     </div>
   </section>
 </template>
