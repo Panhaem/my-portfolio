@@ -25,13 +25,14 @@
       <div class="flex flex-wrap gap-4 justify-center md:justify-start">
 
         <!-- Download CV Button -->
-        <a
-          href="/empanha.pdf"
-          download
-          class="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:scale-105 transition"
-        >
-          Download CV
-        </a>
+       <a
+        href="/empanha.pdf"
+        target="_blank"
+        rel="noopener"
+        class="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:scale-105 transition"
+      >
+        Download CV
+      </a>
 
         <!-- View Projects Button -->
         <a
