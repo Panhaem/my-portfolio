@@ -12,6 +12,7 @@
         >
           <img
             src="https://picsum.photos/600/400"
+            alt="TUNSAI Water System project"
             class="rounded-md mb-4 w-full h-40 object-cover"
           />
           <h3 class="text-xl font-semibold dark:text-white">TUNSAI Water System</h3>
@@ -27,6 +28,7 @@
         >
           <img
             src="https://picsum.photos/600/401"
+            alt="Camfood System project"
             class="rounded-md mb-4 w-full h-40 object-cover"
           />
           <h3 class="text-xl font-semibold dark:text-white">Camfood System</h3>

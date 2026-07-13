@@ -6,7 +6,13 @@
       <div class="flex justify-between items-center max-w-6xl mx-auto">
 
         <!-- Logo -->
-        <h1 class="font-bold text-lg dark:text-white">Panha</h1>
+        <a
+          href="#home"
+          class="font-bold text-lg dark:text-white"
+          aria-label="Panha Em portfolio home"
+        >
+          Panha
+        </a>
 
         <!-- Desktop Menu -->
         <ul class="hidden md:flex gap-8 font-semibold text-gray-800 dark:text-gray-200">

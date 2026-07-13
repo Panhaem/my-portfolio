@@ -7,7 +7,7 @@
     <!-- Profile Image -->
     <img
       src="@/assets/profile.png"
-      alt="Panha Photo"
+      alt="Panha Em, web developer"
       class="w-60 h-60 object-cover rounded-full shadow-xl border-4 border-white dark:border-gray-700"
     />
 
